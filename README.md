@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I’m Muktar
 
+Aspiring data analyst and 300-level Data Science student at the University of Lagos.
+I’m building my analytical toolkit through hands-on projects, starting with my first
+two projects completed entirely in Microsoft Excel.
+
+## Excel projects
+- [Basic Retail Sales Analysis](https://github.com/afcmuktar/basic-retail-sales-analysis-excel)
+- [Superstore Sales & Profitability Analysis](REPLACE_WITH_REPOSITORY_LINK)
+
+I’m interested in turning data into clear, useful insights and continuing to improve
+through practical work.
 <!--
 **afcmuktar/afcmuktar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
