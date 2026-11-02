@@ -6,7 +6,7 @@ two projects completed entirely in Microsoft Excel.
 
 ## Excel projects
 - [Basic Retail Sales Analysis](https://github.com/afcmuktar/basic-retail-sales-analysis-excel)
-- [Superstore Sales & Profitability Analysis](REPLACE_WITH_REPOSITORY_LINK)
+- [Superstore Sales & Profitability Analysis](https://github.com/afcmuktar/superstore-sales-profitability-analysis-excel)
 
 I’m interested in turning data into clear, useful insights and continuing to improve
 through practical work.
